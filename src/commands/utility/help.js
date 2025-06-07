@@ -156,7 +156,7 @@ async function getHelpMenu({ client, guild }) {
           inline: true
         }
         ])
-    .setDescription(`<a:loading:1238429820933640283> **Emerald GX is here to help. \n > It is a multipourpose bot for your discord. \n > It can help you to build a Super server.**
+    .setDescription(`<a:loading:1238429820933640283> **Train is here to help. \n > This is an exclusive bot. \n > It can help your community grow.**
 <a:loading:1238429820933640283> __**BOT INFO**__
 > <:circle:1238429329231314974> Prefix: \`/\`
 > <:circle:1238429329231314974> Discord.js Version: \`v14.15.2\`
